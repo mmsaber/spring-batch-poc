@@ -5,7 +5,7 @@
 ---
 
 ## 🛠️ Project Structure
-
+please go to the concurrent csv processor project
 This project consists of three microservices working in conjunction:
 
 1. **CSV Processor** - Core service handling CSV file import/export operations.
