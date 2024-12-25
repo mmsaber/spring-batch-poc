@@ -1,0 +1,11 @@
+spring:
+  batch:
+    job:
+      enabled: false
+  servlet:
+    multipart:
+      max-request-size: 2GB
+      max-file-size: 2GB
+server:
+  tomcat:
+    max-swallow-size: 2GB
